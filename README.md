@@ -8,6 +8,6 @@
 2. [微前端基础库 single-spa](https://zh-hans.single-spa.js.org/docs/getting-started-overview)
 3. [阿里云 微前端框架 qiankun](https://qiankun.umijs.org/zh/guide)
 
-## 为什么不用 Iframe?
+## 为什么不用 Iframe
 
 [Why not iframe?](https://www.yuque.com/kuitos/gky7yw/gesexv)
