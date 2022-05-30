@@ -11,3 +11,7 @@
 ## 为什么不用 Iframe?
 
 [Why not iframe?](https://www.yuque.com/kuitos/gky7yw/gesexv)
+
+## Ant Design Pro 配置 qiankun
+
+[官网](https://umijs.org/zh-CN/plugins/plugin-qiankun)
